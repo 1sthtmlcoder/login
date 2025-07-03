@@ -1,6 +1,6 @@
-const backendUrl = 'http://YOUR_BACKEND_IP:5555'; // Replace with your backend URL (use https if available)
+// Replace this with your ngrok HTTPS URL, e.g. 'https://abcd1234.ngrok.io'
+const backendUrl = 'https://4bed-2600-6c55-4800-e3-9d10-4bd2-c91c-7d56.ngrok-free.app';
 
-// Elements
 const signupSection = document.getElementById('signup-section');
 const verifySection = document.getElementById('verify-section');
 const loginSection = document.getElementById('login-section');
